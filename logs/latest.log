@@ -1,0 +1,130 @@
+[18:34:29] [main/INFO]: Loaded 0 recipes
+[18:34:29] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[18:34:29] [Server thread/INFO]: Loading properties
+[18:34:29] [Server thread/INFO]: Default game type: SURVIVAL
+[18:34:29] [Server thread/INFO]: Generating keypair
+[18:34:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:34:30] [Server thread/INFO]: Using default channel type
+[18:34:30] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a5b9c7b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[18:34:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:34:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:34:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:34:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:34:30] [Server thread/INFO]: Preparing level "world"
+[18:34:30] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[18:34:31] [Server thread/INFO]: Loaded 524 recipes
+[18:34:33] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 3356604338233060633)
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 4%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 8%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 12%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 16%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 20%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 24%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 28%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 32%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 36%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 40%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 44%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 48%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 52%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 56%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 60%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 64%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 68%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 72%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 76%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 80%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 84%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 88%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 92%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 96%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 100%
+[18:34:33] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 3356604338233060633)
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 4%
+[18:34:33] [Server thread/INFO]: Preparing spawn area: 8%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 12%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 16%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 20%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 24%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 28%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 32%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 36%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 40%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 44%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 48%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 52%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 56%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 60%
+[18:34:34] [Server thread/INFO]: Preparing spawn area: 64%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 68%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 72%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 76%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 80%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 84%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 88%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 92%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 96%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 100%
+[18:34:35] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 3356604338233060633)
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 4%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 8%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 12%
+[18:34:35] [Server thread/INFO]: Preparing spawn area: 16%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 20%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 24%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 28%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 32%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 36%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 40%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 44%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 48%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 52%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 56%
+[18:34:36] [Server thread/INFO]: Preparing spawn area: 60%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 64%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 68%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 72%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 76%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 80%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 84%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 88%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 92%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 96%
+[18:34:37] [Server thread/INFO]: Preparing spawn area: 100%
+[18:34:37] [Server thread/INFO]: Time elapsed: 4710 ms
+[18:34:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:34:37] [Server thread/INFO]: Done (6.946s)! For help, type "help"
+[18:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[18:35:16] [Server thread/INFO]: Vaciine[/26.39.216.24:23211] logged in with entity id 313 at ([world]134.5, 63.0, -108.5)
+[18:35:16] [Server thread/INFO]: Kuraitoujin[/26.39.188.211:58465] logged in with entity id 556 at ([world]138.5, 63.0, -109.5)
+[18:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6103ms or 122 ticks behind
+[18:42:09] [Server thread/INFO]: Kuraitoujin has made the advancement [Stone Age]
+[18:42:53] [Server thread/INFO]: Kuraitoujin has made the advancement [Getting an Upgrade]
+[18:46:54] [Server thread/INFO]: Vaciine has made the advancement [Stone Age]
+[18:48:05] [Server thread/INFO]: Vaciine has made the advancement [Getting an Upgrade]
+[18:56:38] [Server thread/INFO]: Kuraitoujin has made the advancement [Monster Hunter]
+[18:57:11] [Server thread/INFO]: Vaciine has made the advancement [Acquire Hardware]
+[18:59:26] [Server thread/INFO]: Kuraitoujin has made the advancement [Acquire Hardware]
+[18:59:41] [Server thread/INFO]: Kuraitoujin has made the advancement [Isn't It Iron Pick]
+[19:00:08] [Server thread/INFO]: Kuraitoujin has made the advancement [Suit Up]
+[19:00:19] [Server thread/INFO]: Vaciine has made the advancement [Isn't It Iron Pick]
+[19:00:19] [Server thread/INFO]: Vaciine has made the advancement [Diamonds!]
+[19:00:19] [Server thread/INFO]: Vaciine has made the advancement [Ice Bucket Challenge]
+[19:00:28] [Server thread/INFO]: Vaciine has made the advancement [Suit Up]
+[19:03:43] [Server thread/INFO]: Kuraitoujin has made the advancement [A Seedy Place]
+[19:08:16] [Server thread/INFO]: Vaciine has made the advancement [Monster Hunter]
+[19:09:38] [Server thread/INFO]: Kuraitoujin has made the advancement [Not Today, Thank You]
+[19:13:06] [Server thread/INFO]: Vaciine has made the advancement [A Seedy Place]
+[19:27:15] [Server thread/INFO]: Kuraitoujin has made the advancement [What a Deal!]
+[19:33:27] [Server thread/INFO]: Kuraitoujin has made the advancement [The Parrots and the Bats]
+[19:37:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[19:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[20:02:38] [Server thread/INFO]: Kuraitoujin has made the advancement [Best Friends Forever]
+[20:10:57] [Server thread/INFO]: Vaciine has made the advancement [Sweet Dreams]
+[20:10:58] [Server thread/INFO]: Kuraitoujin has made the advancement [Sweet Dreams]
+[20:13:23] [Server thread/INFO]: Kuraitoujin has made the advancement [Hot Stuff]
+[20:16:12] [Server thread/INFO]: Vaciine has made the advancement [Hot Stuff]
+[20:53:08] [Server thread/INFO]: Vaciine lost connection: Disconnected
+[20:53:08] [Server thread/INFO]: Vaciine left the game
+[20:53:10] [Server thread/INFO]: Kuraitoujin lost connection: Disconnected
+[20:53:10] [Server thread/INFO]: Kuraitoujin left the game
